@@ -8,7 +8,9 @@ We created a personalized application where users can update their own “world 
 
 The app also have a menu that displays the list of wishes/thoughts of places to go next. Also, a “friends” feature may be supported in the future so that users can see where their friends have been to. 
 
-![1](https://user-images.githubusercontent.com/71342754/147889988-dc81703a-8a60-45da-9b77-16556f3b1eba.png)
+<p align="center">
+    <img width="637" alt="mfccs" src="https://user-images.githubusercontent.com/71342754/147889988-dc81703a-8a60-45da-9b77-16556f3b1eba.png">
+</p>
 ![2](https://user-images.githubusercontent.com/71342754/147889996-6eb6e8b5-f35c-4337-9465-f262b7728ee9.png)
 ![3](https://user-images.githubusercontent.com/71342754/147890000-8ff30a39-dcc0-4ad4-95ad-ae01bb82289a.png)
 ![4](https://user-images.githubusercontent.com/71342754/147890002-ef178a24-562b-4964-b88f-634cb810454c.png)
